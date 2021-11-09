@@ -1,17 +1,17 @@
 .login {
-   background: #56ab2f;
+    background: #7F7FD5;
    /* fallback for old browsers */
-   background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);
+   background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);
    /* Chrome 10-25, Safari 5.1-6 */
-   background: linear-gradient(to right, #a8e063, #56ab2f);
+   background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);
    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .signup {
-   background: #000428;
+    background: #40E0D0;
    /* fallback for old browsers */
-   background: -webkit-linear-gradient(to right, #004e92, #000428);
+   background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
    /* Chrome 10-25, Safari 5.1-6 */
-   background: linear-gradient(to right, #004e92, #000428);
+   background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
